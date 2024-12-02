@@ -5,7 +5,7 @@
 # Example:
 # vsaserver="https://euvsa08.kaseya.net"
 # *******************************************************
-vsaserver=""
+vsaserver="https://euvsa08.kaseya.net"
 # *******************************************************
 
 #!/bin/zsh
