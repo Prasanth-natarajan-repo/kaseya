@@ -5,6 +5,7 @@
 # Set VSA Server URL below without the trailing slash.
 # Example:
 # vsaserver="https://vsa.yourdomain.com"
+# vsaserver="https://vsa.yourdomain.com"
 # *******************************************************
 
 #!/bin/zsh
