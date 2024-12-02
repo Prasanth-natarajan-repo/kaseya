@@ -3,9 +3,9 @@
 # *********************IMPORTANT*************************
 # Set VSA Server URL below without the trailing slash.
 # Example:
-# vsaserver="https://euvsa08.kaseya.net"
+# vsaserver="https://vsa.yourdomain.com"
 # *******************************************************
-vsaserver="https://euvsa08.kaseya.net"
+vsaserver=""
 # *******************************************************
 
 #!/bin/zsh
