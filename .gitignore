@@ -1,9 +1,10 @@
 # Kaseya macOS Agent Script
-# Created by prasanth-natarajan-repo
+# Created by Prasanth natarajan- prasanth.natarajan@onxhomes.com
+
 # *********************IMPORTANT*************************
 # Set VSA Server URL below without the trailing slash.
 # Example:
-# vsaserver="https://euvsa08.kaseya.net"
+# vsaserver="https://vsa.yourdomain.com"
 # *******************************************************
 vsaserver=""
 # *******************************************************
@@ -24,7 +25,7 @@ echo '   ██  ██       ██ ██   ██ '
 echo '    ████   ███████ ██   ██ '
 echo '\033[0m---------------------------'                                                                                               
 echo 'macOS VSA Agent Maintenance'
-echo 'Created by prasanth natarajan'
+echo 'Created by Prasanth Natarajan'
 echo '---------------------------'
 echo '1. Uninstall existing agent'
 echo '2. Download and install agent by ID'
