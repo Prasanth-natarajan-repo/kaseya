@@ -6,8 +6,6 @@
 # Example:
 # vsaserver="https://vsa.yourdomain.com"
 # *******************************************************
-vsaserver=""
-# *******************************************************
 
 #!/bin/zsh
 # Check for root
